@@ -116,6 +116,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      * Moves clicked Button to index of empty Button, and vice versa
+     * Note: index numbers may have been through experimentation
      * @param v: the View that was clicked
      */
     public void movePiece(View v) {
